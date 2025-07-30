@@ -1,6 +1,6 @@
 # ✨ Hover Effect From Ludwig Video
 
-A clean and smooth hover effect inspired by Ludwig’s tutorial video. Built with HTML and CSS, this effect adds subtle animations to elements when hovered, enhancing user interaction and visual appeal.
+A clean and smooth hover effect inspired by Ludwig’s tutorial video. Built with HTML and CSS. This effect adds subtle animations to elements when hovered, enhancing user interaction and visual appeal.
 
 ---
 
